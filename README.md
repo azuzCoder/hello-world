@@ -6,4 +6,4 @@ This repository is built step by step in the tutorial.
 
 I do same changes for test
 
-This have written for test pull command
+This has written for test pull command
